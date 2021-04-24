@@ -1,6 +1,6 @@
 # Mini-Interpreter-Yacc-Lex
 
-A small interpreter for our C-like programming language.
+A small interpreter for our own C-like programming language.
 
 ## Built With
 
